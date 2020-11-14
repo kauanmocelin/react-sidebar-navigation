@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d190cda1-2940-442c-b5bf-ffe8903f4de3/deploy-status)](https://app.netlify.com/sites/react-sidebar-navigation-k1/deploys)
+
 # React Sidebar Navigation
 
 A compact sidebar navigation built in react
